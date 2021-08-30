@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="https://dbpedia.org/ontology/">
+
+  <foaf:Person rdf:about="https://dbpedia.org/page/Judith_Butler">
+    <rdf:type rdf:resource="https://dbpedia.org/ontology/Person"/>
+    <ns0:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-02-24</ns0:birthDate>
+    <ns0:birthPlace rdf:resource="https://dbpedia.org/page/Cleveland"/>
+    <ns0:mainInterest>Gender Studies</ns0:mainInterest>
+    <foaf:name xml:lang="en">Judith Butler</foaf:name>
+  </foaf:Person>
+
+</rdf:RDF>
