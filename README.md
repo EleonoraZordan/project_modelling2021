@@ -9,3 +9,4 @@ Tools used:
 - IIIF
 - OpenSeaDragon
 - Mirador
+- Visual Studio Code
